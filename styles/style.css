@@ -88,13 +88,22 @@
     line-height: 30px; /* 166.667% */
 }
 .btn33{
+    cursor: pointer;
     color: #FFF;
     font-size: 20px;
     font-weight: 700;
     line-height: normal;
     background: transparent;
     border: none;
-    margin: 50px;
+    margin: 20px;
+    padding: 20px;
+}
+.btn33:hover{
+    transition: all 1s;
+    background: #F00;
+    color: #000;
+    border-radius: 20px;
+    padding: 20px;
 }
 .s3{
     background:  linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
@@ -127,6 +136,12 @@
     margin-top: 48px;
     border-radius: 8px;
     background: #F00;
+}
+.s2b:hover{
+    cursor: pointer;
+    transition: all 1s;
+    background: #F00;
+    color: #000;
 }
 .s4{
     display: flex;
@@ -271,6 +286,14 @@
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
+}
+.imgmcnt7 img{
+    border-radius: 15px;
+}
+.imgmcnt7 img:hover{
+    cursor: pointer;
+    transition: all .5s;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.25);
 }
 .s8{
     max-width: 1320px;
