@@ -336,3 +336,45 @@
     background: #f00;
     color: #FFF;
 }
+footer{
+    max-width: 1600px;
+    height: 609px;
+    background: #070211;
+    margin: 0 auto;
+    margin-top: 120px;
+}
+.colums9 {
+    padding-top: 120px;
+    color: #fff;
+    gap: 60px;
+    padding-right: 100px;
+    line-height: 40px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    font-weight: 500;
+    padding-bottom: 50px;
+}
+.cl92 span i{
+    padding-right: 10px\;
+}
+hr.newline{
+    display: block;
+    width: 75%;
+    margin: 0 auto;
+    border: 1px solid rgba(255, 255, 255, 0.15) ;
+}
+.imgs9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 50px;
+}
+.lastcl{
+    font-size: 24px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 200px;
+    color: #FFF;
+}
