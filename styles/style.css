@@ -182,3 +182,65 @@
     padding: 20px 0px;
     line-height: 32px;
 }
+.s5{
+    padding: 120px 0px;
+    align-items: center;
+    text-align: center;
+}
+.tcn5{
+    color: #070211;
+    font-size: 24px;
+    font-weight: 500;
+    display: block;
+    padding-bottom: 10px;
+}
+.tcn51{
+    font-weight: 900;
+    font-size: 72px;
+    display: block;
+    padding-bottom: 28px;
+}
+.tcn51 > span{
+    color: #F00;
+}
+.tcn52    {
+    margin: 0 auto;
+    display: block;
+    font-size: 20px;
+    width: 1068px;
+    color: rgba(7, 2, 17, 0.60);
+}
+.s6{
+    background: url(/resources/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    margin: 0 auto;
+    position: relative;
+}
+.cnt6{
+    display: flex;
+    gap: 740px;
+    /* padding-left: 200px; */
+    justify-content: space-around;
+}
+.boximg > img {
+    width: 600px;
+    padding-left: 150px;
+    position: absolute;
+    bottom: 20px;
+    
+}
+.offimg{
+    
+    padding-bottom: 226px;
+    /* display: flex; */
+    position: relative;
+}
+.img4{
+    /* padding-right: 50px; */
+}
+.img3{
+    position: absolute;
+    right: 70%;
+    bottom: 45%;
+}
