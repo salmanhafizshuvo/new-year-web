@@ -272,3 +272,67 @@
     flex-wrap: wrap;
     gap: 20px;
 }
+.s8{
+    max-width: 1320px;
+    height: 616px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05); 
+}
+.cnt8{
+    padding: 80px 0px;
+}
+.cnt8 img{
+    margin: 0 auto;
+    display: block;
+}
+.t81{
+    display: block;
+    text-align: center;
+    color: #070211;
+    font-size: 48px;
+    padding: 30px 0px;
+    font-weight: 900;
+}
+.t82{
+    color: rgba(7, 2, 17, 0.60);
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    width: 896px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    padding-bottom: 40px;
+}
+.bns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bns label{
+    position: relative;
+}
+.bns label input{
+    border: none;
+    font-size: 18px;
+    padding: 30px;
+    color: rgba(7, 2, 17, 0.30);
+    width: 750px;
+    border-radius: 50px 0px 0px 50px ;
+}
+.bns label button{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border: none;
+    width: 220px;
+    font-size: 20px ;
+    font-style: normal;
+    font-weight: 600;
+    padding: 30px;
+    border-radius: 0px 50px 50px 0px ;
+    background: #f00;
+    color: #FFF;
+}
