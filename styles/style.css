@@ -215,24 +215,25 @@
     background-repeat: no-repeat;
     background-position: bottom;
     margin: 0 auto;
+    max-width: 1320px;
     position: relative;
 }
 .cnt6{
     display: flex;
     gap: 740px;
     /* padding-left: 200px; */
-    justify-content: space-around;
+    justify-content: flex-end;
 }
 .boximg > img {
-    width: 600px;
-    padding-left: 150px;
+    width: 400px;
+    padding-left: 10px;
     position: absolute;
     bottom: 20px;
     
 }
 .offimg{
     
-    padding-bottom: 226px;
+    padding-bottom: 224px;
     /* display: flex; */
     position: relative;
 }
